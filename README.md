@@ -1,0 +1,3 @@
+# Kritner.MongoDb.GettingStarted
+
+Getting started with MongoDb and .net core... some blog posts about it as well... maybe...
